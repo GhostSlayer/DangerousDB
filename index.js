@@ -47,7 +47,7 @@ bot.on('messageCreate', async (message) => {
           },
           {
             name: 'Core',
-            value: '`help`'
+            value: '`help`, `ping`'
           },
           {
             name: 'API',
