@@ -5,8 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "node-fetch": "^2.6.1",
-    "eris": "^0.14.0"
+    "eris": "^0.14.0",
+    "eris-additions": "^1.4.1",
+    "mongoose": "^5.11.12",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
